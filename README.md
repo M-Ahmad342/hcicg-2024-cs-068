@@ -1,3 +1,13 @@
-MUHAMMAD Ahmad \n
-2024-cs-068
-Toolchain : python , c++ , javascript, WebGL
+Muhammad Ahmad
+
+Student ID: 2024-CS-068
+
+🛠️ Toolchain
+
+🐍 Python
+
+⚡ C++
+
+🌐 JavaScript
+
+🎨 WebGL
